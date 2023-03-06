@@ -43,7 +43,7 @@ The cooked wheel files are located at `dist` directory.
 ## Dependency
 This package requires other packages.
 
-- [`Cython`](https://cython.org/)
+- [`Cython`](https://cython.org/)：pyhon=3.6 -->Cython=0.29
 - [`NumPy`](http://www.numpy.org/)
 
 
